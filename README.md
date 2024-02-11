@@ -1,2 +1,2 @@
 # Shell-Programming
-My exploratino of Shell Programming
+My exploration of Shell Programming
